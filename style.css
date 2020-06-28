@@ -1,0 +1,57 @@
+.name
+{
+font-family: 'Lobster', cursive !important;
+font-weight: bold !important;
+}
+body
+{
+  font-family: 'Pangolin', cursive !important;
+  background-color: #feceab !important;
+    text-align: center !important;
+      margin: 0 !important;
+}
+.main{
+  background-color: #feceab !important ;
+  text-align: center !important;
+  height: 100vh !important;
+  padding-top: 12vh !important;
+    margin: 20px 40px !important;
+}
+#display-picture{
+  border-radius: 250% !important;
+}
+.main h1 {
+  font-size: 70px !important;
+  text-color: white !important;
+  color: #e84a5f !important;
+}
+.main p{
+  font-size: 30px !important;
+  font-weight: lighter !important;
+  color: #f96d80 !important;
+}
+.main hr {
+  width: 20% !important;
+}
+h3{
+  font-size: 45px !important;
+  color: #e84a5f !important;
+}
+.skills ul , .hobbies ul{
+  list-style-type: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.education , .skills{
+  background-color: #ff9c71 !important;
+font-size: 30px !important;
+}
+.education{
+  table-layout: fixed !important;
+  font-size: 30px !important;
+
+}
+.contact ,  .hobbies {
+    background-color: #fbc687 !important;
+   font-size: 30px !important;
+}
